@@ -21,7 +21,6 @@ python3 seven_segment_display_gui.py
 
 👤 **Jas Lau**
 
-* Twitter: [@jsmlau](https://twitter.com/jsmlau)
 * Github: [@jsmlau](https://github.com/jsmlau)
 
 ***
